@@ -51,11 +51,15 @@ body {
 .container-narrow > hr {
   margin: 2rem 0;
 }
+  .logo {
+	max-width: 7rem;
+	padding-bottom: 3px;
+	}
 
 /* Main marketing message and sign up button */
 .jumbotron {
   text-align: left;
-  border-color:rgba(0,179,136,1);
+  border-color:#1F4475;
   border-width: 20px;
   border-style: solid;
   border-radius: 0;
