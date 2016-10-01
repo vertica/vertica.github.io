@@ -77,6 +77,15 @@ color:white;
   margin-top: 1.5rem;
 }
 
+.main-guide h4 li {
+margin-bottom: 20px;
+}
+
+#hackathon {
+	background-color: purple;	
+text-align: center;
+}
+
 /* Responsive: Portrait tablets and up */
 @media screen and (min-width: 48em) {
   /* Remove the padding we set earlier */
